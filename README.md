@@ -2,6 +2,8 @@
 
 Built a Weather App using a Weather API from https://openweathermap.org/ 
 
+Use can give a city name and get the details like country name, coordinate, temperature, pressure and humidity.
+
 TechStack Used:
 
  1. Framework: Django == 4.1.2
